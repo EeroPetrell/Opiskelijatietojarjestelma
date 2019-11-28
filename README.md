@@ -1,2 +1,2 @@
 # Opiskelijatietojarjestelma
-Demo project written in C
+Demo project written in C. 
